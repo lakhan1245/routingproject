@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
-import { AppRouting, Routes } from '@angular/routes';
+// import { AppRouting, Routes } from '@angular/routes';
 
 @NgModule({
   imports: [
-    AppRouting
+    // AppRouting
   ],
   declarations: []
 })
